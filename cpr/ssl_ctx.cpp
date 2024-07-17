@@ -2,7 +2,7 @@
 #include "cpr/ssl_ctx.h"
 #include "cpr/ssl_options.h"
 #include <cstddef>
-#include <curl/curl.h>
+#include  "../../curl/curl/curl.h"
 #include <iostream>
 #include <memory>
 #include <sstream>

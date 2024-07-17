@@ -6,7 +6,7 @@
 #include <vector>
 
 #include "cpr/filesystem.h"
-#include <curl/curl.h>
+#include  "../../curl/curl/curl.h"
 
 #include "cpr/util.h"
 #include <utility>

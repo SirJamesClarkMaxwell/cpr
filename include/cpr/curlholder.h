@@ -2,7 +2,8 @@
 #define CPR_CURL_HOLDER_H
 
 #include <array>
-#include <curl/curl.h>
+//#include  "../../curl/curl/curl.h"
+#include "../../curl/curl/curl.h"
 #include <mutex>
 #include <string>
 

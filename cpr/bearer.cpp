@@ -1,6 +1,6 @@
 #include "cpr/bearer.h"
 #include "cpr/util.h"
-#include <curl/curlver.h>
+#include "../../curl/curl/curlver.h"
 
 namespace cpr {
 // Only supported with libcurl >= 7.61.0.

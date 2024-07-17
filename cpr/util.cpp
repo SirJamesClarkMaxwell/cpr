@@ -8,7 +8,7 @@
 #include <chrono>
 #include <cstdint>
 #include <ctime>
-#include <curl/curl.h>
+#include  "../../curl/curl/curl.h"
 #include <fstream>
 #include <ios>
 #include <sstream>

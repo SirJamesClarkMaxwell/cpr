@@ -1,7 +1,7 @@
 #ifndef CPR_HTTP_VERSION_H
 #define CPR_HTTP_VERSION_H
 
-#include <curl/curlver.h>
+#include "../../curl/curl/curlver.h"
 
 namespace cpr {
 enum class HttpVersionCode {

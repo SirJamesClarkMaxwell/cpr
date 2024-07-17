@@ -8,9 +8,9 @@
 #include <algorithm>
 #include <cassert>
 #include <cstddef>
-#include <curl/curl.h>
+#include  "../../curl/curl/curl.h"
 #include <curl/multi.h>
-#include <curl/curlver.h>
+#include "../../curl/curl/curlver.h"
 #include <functional>
 #include <iosfwd>
 #include <iostream>

@@ -1,7 +1,7 @@
 #ifndef CPR_BEARER_H
 #define CPR_BEARER_H
 
-#include <curl/curlver.h>
+#include "../../curl/curl/curlver.h"
 #include <string>
 
 #include <utility>

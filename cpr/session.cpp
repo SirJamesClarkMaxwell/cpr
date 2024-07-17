@@ -15,8 +15,8 @@
 #include <variant>
 #include <vector>
 
-#include <curl/curl.h>
-#include <curl/curlver.h>
+#include  "../../curl/curl/curl.h"
+#include "../../curl/curl/curlver.h"
 #include <curl/easy.h>
 #include <curl/system.h>
 

@@ -6,8 +6,8 @@
 #include <cpr/curlholder.h>
 #include <cpr/error.h>
 #include <cpr/util.h>
-#include <curl/curl.h>
-#include <curl/curlver.h>
+#include  "../../curl/curl/curl.h"
+#include "../../curl/curl/curlver.h"
 #include <memory>
 #include <string>
 #include <utility>

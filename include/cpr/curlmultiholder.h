@@ -1,7 +1,7 @@
 #ifndef CPR_CURLMULTIHOLDER_H
 #define CPR_CURLMULTIHOLDER_H
 
-#include <curl/curl.h>
+#include  "../../curl/curl/curl.h"
 
 namespace cpr {
 

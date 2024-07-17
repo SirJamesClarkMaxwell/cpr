@@ -1,7 +1,8 @@
 #ifndef CPR_ACCEPT_ENCODING_H
 #define CPR_ACCEPT_ENCODING_H
 
-#include <curl/curlver.h>
+//#include "../../curl/curl/curlver.h"
+#include "../../curl/curl/curlver.h"
 #include <initializer_list>
 #include <map>
 #include <string>
