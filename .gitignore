@@ -59,3 +59,20 @@ compile_commands.json
 
 # macOS
 .DS_Store
+**.sln**
+**.vcxproj**
+**.vcxproj.filters**
+**.suo**
+**.vsidx**
+**.obj**
+**.log**
+**.tlog**
+**pdb**
+**recipe**
+*.db**
+**ipch**
+**idb**
+**.cmake**
+**.md**
+**.yml**
+**.yaml**
